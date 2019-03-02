@@ -12,8 +12,8 @@
     <address>{{ event.location }}</address>
     <h2>Event details</h2>
     <p>{{ event.description }}</p>
-    <h2>Attendees
-      <!-- <span class="badge -fill-gradient">{{ event.attendees.length }}</span> -->
+    <h2>
+      Attendees
       <span class="badge -fill-gradient">{{ event.attendees.length }}</span>
     </h2>
     <ul class="list-group">
