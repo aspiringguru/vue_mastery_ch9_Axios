@@ -1,0 +1,29 @@
+
+https://www.vuemastery.com/courses/real-world-vue-js/API-calls-with-Axios
+
+npm install -g json-server
+
+json-server --version
+
+
+json-server --watch db.json
+
+by default, json-server runs on port 3000
+
+localhost:3000/events
+
+
+vue ui
+
+add the directory containing this repo
+dependencies > add > Axios 
+
+update all plugins via the ui 
+update all the dependencies via the ui  
+
+#command line equivalent 
+npm outdated 
+npm update 
+#check all up to date
+npm outdated 
+
